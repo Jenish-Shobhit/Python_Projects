@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="321909b5-f08a-4fbd-ab0f-d5f0e355ca67" name="Changes" comment="first python project">
+    <list default="true" id="321909b5-f08a-4fbd-ab0f-d5f0e355ca67" name="Changes" comment="added project 1 ,">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Band_Name_Generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1768928482738</updated>
       <workItem from="1768928483797" duration="37000" />
-      <workItem from="1768928529346" duration="1519000" />
+      <workItem from="1768928529346" duration="2763000" />
     </task>
     <task id="LOCAL-00001" summary="first python project">
       <option name="closed" value="true" />
@@ -80,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768928635883</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added project 1 ,">
+      <option name="closed" value="true" />
+      <created>1768930080399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768930080399</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,7 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first python project" />
-    <option name="LAST_COMMIT_MESSAGE" value="first python project" />
+    <MESSAGE value="added project 1 ," />
+    <option name="LAST_COMMIT_MESSAGE" value="added project 1 ," />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
