@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="321909b5-f08a-4fbd-ab0f-d5f0e355ca67" name="Changes" comment="added project 2">
+    <list default="true" id="321909b5-f08a-4fbd-ab0f-d5f0e355ca67" name="Changes" comment="improved project1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1_Band_Name_Generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Band_Name_Generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Project1_Band_Name_Generator.executor": "Run",
+    "Python.Project2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -78,7 +79,8 @@
       <updated>1768928482738</updated>
       <workItem from="1768928483797" duration="37000" />
       <workItem from="1768928529346" duration="5785000" />
-      <workItem from="1769538126207" duration="2685000" />
+      <workItem from="1769538126207" duration="3428000" />
+      <workItem from="1769787867069" duration="458000" />
     </task>
     <task id="LOCAL-00001" summary="first python project">
       <option name="closed" value="true" />
@@ -112,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769019118531</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="improved project1">
+      <option name="closed" value="true" />
+      <created>1769542194246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769542194246</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +132,8 @@
     <MESSAGE value="first python project" />
     <MESSAGE value="added project 1 ," />
     <MESSAGE value="added project 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="added project 2" />
+    <MESSAGE value="improved project1" />
+    <option name="LAST_COMMIT_MESSAGE" value="improved project1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -136,6 +147,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Projects$Project1_Band_Name_Generator.coverage" NAME="Project1_Band_Name_Generator Coverage Results" MODIFIED="1768930014761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Project1_Band_Name_Generator.coverage" NAME="Project1_Band_Name_Generator Coverage Results" MODIFIED="1769542071294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
